@@ -1,2 +1,2 @@
-# php-utility
+# php-utility-class
 Utilerias php
