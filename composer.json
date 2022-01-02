@@ -3,7 +3,7 @@
     "description": "Libreria con utilidades para PHP",
     "type": "library",
     "require": {
-        "aws/aws-sdk-php": "^3.208"
+        
     },
     "license": "MIT",
     "autoload": {
