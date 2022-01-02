@@ -1,5 +1,5 @@
 {
-    "name": "php-library/php-utility-class",
+    "name": "joalm-library/php-utility-class",
     "description": "Libreria con utilidades para PHP",
     "type": "library",
     "require": {
@@ -8,7 +8,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "PhpLibrary\\PhpUtilityClass\\": "src/"
+            "JoalmLibrary\\PhpUtilityClass\\": "src/"
         }
     },
     "authors": [
