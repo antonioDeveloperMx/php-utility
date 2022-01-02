@@ -6,9 +6,9 @@
  * Time: 01:03 PM
  */
 
-namespace App\Utilities;
+namespace PhpLibrary;
 
-class Utility
+class PhpUtilityClass
 {
     public static function EncryptPassword($seed, $password){
         return sha1(md5($seed.strip_tags(trim($password))));

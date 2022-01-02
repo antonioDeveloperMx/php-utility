@@ -1,0 +1,20 @@
+{
+    "name": "php-library/php-utility-class",
+    "description": "Libreria con utilidades para PHP",
+    "type": "library",
+    "require": {
+        "aws/aws-sdk-php": "^3.208"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "PhpLibrary\\PhpUtilityClass\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jose Antonio Lopez Mora",
+            "email": "antoniolopez.developer@gmail.com"
+        }
+    ]
+}
