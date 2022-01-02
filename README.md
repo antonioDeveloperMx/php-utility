@@ -1,7 +1,7 @@
 # php-utility-class
 Libreria con multiples funciones utiles
 
-##Instalacion
+## Instalacion
 composer require joalm-library/php-utility-class
 
 ## Requerimientos
