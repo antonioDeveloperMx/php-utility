@@ -6,7 +6,7 @@
  * Time: 01:03 PM
  */
 
-namespace JoalmLibrary;
+namespace JoalmLibrary\PhpUtilityClass;
 
 class PhpUtilityClass
 {
